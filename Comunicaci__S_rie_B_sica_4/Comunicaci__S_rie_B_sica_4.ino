@@ -27,7 +27,7 @@ unsigned long num1Tarjeta = 0,  num2Tarjeta = 0;
 //*************************** SETUP ********************************
 void setup()              
 {
-Serial.begin(9600);
+  Serial.begin(9600);
   imprimirMenu();   
 }
 
